@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">life-cycle</string>
+    <string name="mainHeader">Login here</string>
+    <string name="mainNameLabel">Username</string>
+    <string name="mainNameInput"></string>
+    <string name="mainPasswordLabel">Password</string>
+    <string name="mainPasswordInput"></string>
+    <string name="loginButton">Login</string>
+
+    
+
+</resources>
