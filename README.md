@@ -17,3 +17,7 @@ Redovisning
 Underhandling muntligt eller digital med extra 200 ords beskrivning
 
 Obs. lämna in via github
+
+
+![1,2,3](https://user-images.githubusercontent.com/70634183/140627585-498c9143-56df-4b71-9de0-1aafca5312b3.jpg)
+![4,5,6](https://user-images.githubusercontent.com/70634183/140627588-f17ca2b2-618f-4f03-9b1a-d987eada6f02.jpg)
